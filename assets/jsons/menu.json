@@ -1,0 +1,111 @@
+{
+    "sidemenu": [
+        {
+            "title": "Cycles",
+            "url": "https://www.fahrrad.de/fahrraeder/",
+            "submenu": [
+                {
+                    "title": "Mountain bikes",
+                    "url": "https://www.fahrrad.de/fahrraeder/mountainbikes/",
+                    "contextmenu": [
+                        {
+                            "title": "MTB Hardtails",
+                            "url":"https://www.fahrrad.de/fahrraeder/mountainbikes/mtb-hardtails/"
+                        },
+                        {
+                            "title": "MTB Fullys",
+                            "url":"https://www.fahrrad.de/fahrraeder/mountainbikes/mtb-fullys/"
+                        },
+                        {
+                            "title": "MTB 26 Zoll",
+                            "url":"https://www.fahrrad.de/fahrraeder/mountainbikes/mtb-26-zoll/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Racing bikes",
+                    "url": "https://www.fahrrad.de/fahrraeder/rennraeder/",
+                    "contextmenu": [
+                        {
+                            "title": "road bikes",
+                            "url":"https://www.fahrrad.de/fahrraeder/rennraeder/strassenrennraeder/"
+                        },
+                        {
+                            "title": "triathlon bikes",
+                            "url":"https://www.fahrrad.de/fahrraeder/rennraeder/triathlonraeder/"
+                        },
+                        {
+                            "title": "cyclocross bikes",
+                            "url":"https://www.fahrrad.de/fahrraeder/rennraeder/gravel-bikes/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trekking bikes",
+                    "url": "https://www.fahrrad.de/fahrraeder/trekkingraeder/",
+                    "contextmenu": [
+                        {
+                            "title": "Trekking bikes men",
+                            "url":"https://www.fahrrad.de/fahrraeder/trekkingraeder/trekkingraeder-herren/"
+                        },
+                        {
+                            "title": "Trekking bikes for women",
+                            "url":"https://www.fahrrad.de/fahrraeder/trekkingraeder/trekkingraeder-damen/"
+                        },
+                        {
+                            "title": "Crossräder",
+                            "url":"https://www.fahrrad.de/fahrraeder/trekkingraeder/crossraeder/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "E-Bikes",
+            "url": "https://www.fahrrad.de/fahrraeder/e-bikes/",
+            "submenu": [
+                {
+                    "title": "E-Bikes",
+                    "url": "https://www.fahrrad.de/fahrraeder/e-bikes/",
+                    "contextmenu": [
+                        {
+                            "title": "E-Bikes MTBs",
+                            "url":"https://www.fahrrad.de/fahrraeder/e-bikes/e-mountainbikes/"
+                        },
+                        {
+                            "title": "E-Bikes Racing bike",
+                            "url":"https://www.fahrrad.de/fahrraeder/e-bikes/e-bikes-rennrad/"
+                        },
+                        {
+                            "title": "E-Bikes Trekking",
+                            "url":"https://www.fahrrad.de/fahrraeder/e-bikes/e-bikes-trekking/"
+                        }
+                    ]
+                },
+                {
+                    "title": "E-Scooter",
+                    "url": "https://www.fahrrad.de/e-scooter/",
+                    "contextmenu": []
+                },
+                {
+                    "title": "E-Bike Parts",
+                    "url": "https://www.fahrrad.de/teile/e-bike-teile/",
+                    "contextmenu": [
+                        {
+                            "title": "Batteries",
+                            "url":"https://www.fahrrad.de/teile/e-bike-teile/e-bike-akkus-ladegeraete/"
+                        },
+                        {
+                            "title": "Breaks",
+                            "url":"https://www.fahrrad.de/teile/e-bike-teile/e-bike-bremsen/"
+                        },
+                        {
+                            "title": "tires",
+                            "url":"https://www.fahrrad.de/teile/e-bike-teile/e-bike-reifen/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
